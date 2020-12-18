@@ -1,0 +1,172 @@
+2020-12-07_13:34:49.086257 -- /home/ubuntu/backend/repo/media/ori/2020-12-06_210032, /home/ubuntu/backend/repo/media/hairs/male_long_3.jpg, /home/ubuntu/backend/repo/media/result/2020-12-06_210032.jpg, 100000
+Execution time
+19294.53995990753 sec
+321.5756659984589 min
+5.359594433307648 hour
+----------------------------------
+2020-12-07_18:56:37.168630 -- /home/ubuntu/backend/repo/media/ori/2020-12-06_210210, /home/ubuntu/backend/repo/media/hairs/male_long_2.jpg, /home/ubuntu/backend/repo/media/result/2020-12-06_210210.jpg, 100000
+Execution time
+18996.687928199768 sec
+316.6114654699961 min
+5.276857757833269 hour
+----------------------------------
+2020-12-09_14:08:44.360905 -- /home/ubuntu/backend/repo/media/ori/2020-12-09_230821, /home/ubuntu/backend/repo/media/hairs/male_short_9.jpg, /home/ubuntu/backend/repo/media/result/2020-12-09_230821.jpg, 100000
+Execution time
+18934.754412412643 sec
+315.5792402068774 min
+5.259654003447957 hour
+----------------------------------
+2020-12-09_19:24:31.811830 -- /home/ubuntu/backend/repo/media/ori/2020-12-09_230910, /home/ubuntu/backend/repo/media/hairs/male_short_0.jpg, /home/ubuntu/backend/repo/media/result/2020-12-09_230910.jpg, 100000
+Execution time
+18930.138344049454 sec
+315.5023057341576 min
+5.258371762235959 hour
+----------------------------------
+2020-12-10_00:40:19.381343 -- /home/ubuntu/backend/repo/media/ori/2020-12-09_230946, /home/ubuntu/backend/repo/media/hairs/female_short_3.jpg, /home/ubuntu/backend/repo/media/result/2020-12-09_230946.jpg, 100000
+Execution time
+19278.10879278183 sec
+321.30181321303047 min
+5.355030220217175 hour
+----------------------------------
+2020-12-10_06:02:07.360873 -- /home/ubuntu/backend/repo/media/ori/2020-12-09_231021, /home/ubuntu/backend/repo/media/hairs/male_short_0.jpg, /home/ubuntu/backend/repo/media/result/2020-12-09_231021.jpg, 100000
+Execution time
+19183.770101070404 sec
+319.7295016845067 min
+5.328825028075112 hour
+----------------------------------
+2020-12-10_11:21:55.185455 -- /home/ubuntu/backend/repo/media/ori/2020-12-09_231226, /home/ubuntu/backend/repo/media/hairs/female_long_1.jpg, /home/ubuntu/backend/repo/media/result/2020-12-09_231226.jpg, 100000
+Execution time
+19144.814692735672 sec
+319.0802448789279 min
+5.318004081315465 hour
+----------------------------------
+2020-12-10_17:24:44.754036 -- /home/ubuntu/backend/repo/media/ori/2020-12-09_230821, /home/ubuntu/backend/repo/media/hairs/male_short_9.jpg, /home/ubuntu/backend/repo/media/result/2020-12-09_230821.jpg, 100000
+Execution time
+19041.65962791443 sec
+317.3609937985738 min
+5.2893498966428965 hour
+----------------------------------
+2020-12-10_22:42:32.416094 -- /home/ubuntu/backend/repo/media/ori/2020-12-09_230910, /home/ubuntu/backend/repo/media/hairs/male_short_0.jpg, /home/ubuntu/backend/repo/media/result/2020-12-09_230910.jpg, 100000
+Execution time
+15744.656165122986 sec
+262.41093608538307 min
+4.373515601423051 hour
+----------------------------------
+2020-12-11_03:05:43.968715 -- /home/ubuntu/backend/repo/media/ori/2020-12-09_230821, /home/ubuntu/backend/repo/media/hairs/male_short_9.jpg, /home/ubuntu/backend/repo/media/result/2020-12-09_230821.jpg, 150000
+Execution time
+333.4438498020172 sec
+5.557397496700287 min
+0.09262329161167145 hour
+----------------------------------
+Start time : 2020-12-11_03:11:38.219657, Iteration : 150000
+OriFacePath : /home/ubuntu/backend/repo/media/ori/2020-12-09_230821
+Hair : /home/ubuntu/backend/repo/media/hairs/male_short_9.jpg
+Result Path : /home/ubuntu/backend/repo/media/result/2020-12-09_230821.jpg
+Success : True
+Execution time -- 28505.243112564087 sec / 475.0873852094015 min / 7.918123086823358 hour
+----------------------------------
+Start time : 2020-12-11_11:07:04.771983, Iteration : 150000
+OriFacePath : /home/ubuntu/backend/repo/media/ori/2020-12-09_230910
+Hair : /home/ubuntu/backend/repo/media/hairs/male_short_0.jpg
+Result Path : /home/ubuntu/backend/repo/media/result/2020-12-09_230910.jpg
+Success : True
+Execution time -- 28607.218285799026 sec / 476.7869714299838 min / 7.946449523833063 hour
+----------------------------------
+Start time : 2020-12-11_19:04:01.350644, Iteration : 150000
+OriFacePath : /home/ubuntu/backend/repo/media/ori/2020-12-09_230946
+Hair : /home/ubuntu/backend/repo/media/hairs/female_short_3.jpg
+Result Path : /home/ubuntu/backend/repo/media/result/2020-12-09_230946.jpg
+Success : True
+Execution time -- 28651.234489440918 sec / 477.5205748240153 min / 7.958676247066921 hour
+----------------------------------
+Start time : 2020-12-12_03:01:57.817833, Iteration : 150000
+OriFacePath : /home/ubuntu/backend/repo/media/ori/2020-12-09_231021
+Hair : /home/ubuntu/backend/repo/media/hairs/male_short_0.jpg
+Result Path : /home/ubuntu/backend/repo/media/result/2020-12-09_231021.jpg
+Success : True
+Execution time -- 28435.356494426727 sec / 473.92260824044547 min / 7.898710137340758 hour
+----------------------------------
+Start time : 2020-12-12_10:55:54.146755, Iteration : 150000
+OriFacePath : /home/ubuntu/backend/repo/media/ori/2020-12-09_231226
+Hair : /home/ubuntu/backend/repo/media/hairs/female_long_1.jpg
+Result Path : /home/ubuntu/backend/repo/media/result/2020-12-09_231226.jpg
+Success : True
+Execution time -- 28657.69779086113 sec / 477.62829651435214 min / 7.960471608572536 hour
+----------------------------------
+Start time : 2020-12-14_11:18:45.093704, Iteration : 100000
+OriFacePath : /home/ubuntu/backend/repo/media/ori/2020-12-06_205426
+Hair : /home/ubuntu/backend/repo/media/hairs/male_short_8.jpg
+Result Path : /home/ubuntu/backend/repo/media/result/new1.jpg
+Success : True
+Execution time -- 19113.495547771454 sec / 318.55825912952423 min / 5.309304318825403 hour
+----------------------------------
+Start time : 2020-12-14_16:37:32.969578, Iteration : 100000
+OriFacePath : /home/ubuntu/backend/repo/media/ori/2020-12-06_205426
+Hair : /home/ubuntu/backend/repo/media/hairs/male_short_7.jpg
+Result Path : /home/ubuntu/backend/repo/media/result/new2.jpg
+Success : True
+Execution time -- 18954.620110988617 sec / 315.9103351831436 min / 5.265172253052394 hour
+----------------------------------
+Start time : 2020-12-14_21:53:50.515046, Iteration : 100000
+OriFacePath : /home/ubuntu/backend/repo/media/ori/2020-12-09_231021
+Hair : /home/ubuntu/backend/repo/media/hairs/male_long_7.jpg
+Result Path : /home/ubuntu/backend/repo/media/result/new3.jpg
+Success : True
+Execution time -- 19001.056164741516 sec / 316.6842694123586 min / 5.2780711568726435 hour
+----------------------------------
+Start time : 2020-12-15_03:10:38.149456, Iteration : 100000
+OriFacePath : /home/ubuntu/backend/repo/media/ori/2020-12-09_230910
+Hair : /home/ubuntu/backend/repo/media/hairs/male_long_1.jpg
+Result Path : /home/ubuntu/backend/repo/media/result/new4.jpg
+Success : True
+Execution time -- 19268.09351825714 sec / 321.13489197095237 min / 5.352248199515873 hour
+----------------------------------
+Start time : 2020-12-15_10:56:32.916193, Iteration : 100000
+OriFacePath : /home/ubuntu/backend/repo/media/ori/2020-12-09_230910
+Hair : /home/ubuntu/backend/repo/media/hairs/male_long_0.jpg
+Result Path : /home/ubuntu/backend/repo/media/result/new6.jpg
+Success : True
+Execution time -- 19073.342990636826 sec / 317.8890498439471 min / 5.298150830732451 hour
+----------------------------------
+Start time : 2020-12-15_16:14:50.783344, Iteration : 100000
+OriFacePath : /home/ubuntu/backend/repo/media/ori/2020-12-06_205426
+Hair : /home/ubuntu/backend/repo/media/hairs/male_short_0.jpg
+Result Path : /home/ubuntu/backend/repo/media/result/new7.jpg
+Success : True
+Execution time -- 19010.10054421425 sec / 316.8350090702375 min / 5.280583484503958 hour
+----------------------------------
+Start time : 2020-12-15_21:32:08.430642, Iteration : 100000
+OriFacePath : /home/ubuntu/backend/repo/media/ori/2020-12-09_231021
+Hair : /home/ubuntu/backend/repo/media/hairs/male_short_5.jpg
+Result Path : /home/ubuntu/backend/repo/media/result/new8.jpg
+Success : True
+Execution time -- 19164.790786266327 sec / 319.41317977110543 min / 5.323552996185091 hour
+----------------------------------
+Start time : 2020-12-16_02:51:56.388291, Iteration : 100000
+OriFacePath : /home/ubuntu/backend/repo/media/ori/2020-12-09_230910
+Hair : /home/ubuntu/backend/repo/media/hairs/male_short_1.jpg
+Result Path : /home/ubuntu/backend/repo/media/result/new9.jpg
+Success : True
+Execution time -- 19042.110109567642 sec / 317.3685018261274 min / 5.289475030435456 hour
+----------------------------------
+Start time : 2020-12-16_08:09:44.155566, Iteration : 100000
+OriFacePath : /home/ubuntu/backend/repo/media/ori/2020-12-06_205426
+Hair : /home/ubuntu/backend/repo/media/hairs/male_long_7.jpg
+Result Path : /home/ubuntu/backend/repo/media/result/new10.jpg
+Success : False
+Execution time -- 8569.497737884521 sec / 142.82496229807535 min / 2.380416038301256 hour
+----------------------------------
+Start time : 2020-12-16_12:30:57.538344, Iteration : 100000
+OriFacePath : /home/ubuntu/backend/repo/media/ori/2020-12-16_213038
+Hair : /home/ubuntu/backend/repo/media/hairs/male_long_4.jpg
+Result Path : /home/ubuntu/backend/repo/media/result/2020-12-16_213038.jpg
+Success : True
+Execution time -- 18975.181594133377 sec / 316.2530265688896 min / 5.27088377614816 hour
+----------------------------------
+Start time : 2020-12-16_17:47:15.133321, Iteration : 100000
+OriFacePath : /home/ubuntu/backend/repo/media/ori/2020-12-16_213252
+Hair : /home/ubuntu/backend/repo/media/hairs/male_long_4.jpg
+Result Path : /home/ubuntu/backend/repo/media/result/2020-12-16_213252.jpg
+Success : True
+Execution time -- 18979.108795404434 sec / 316.3184799234072 min / 5.271974665390121 hour
+----------------------------------
